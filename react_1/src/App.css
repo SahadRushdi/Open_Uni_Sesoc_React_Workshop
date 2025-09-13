@@ -1,12 +1,14 @@
 :root {
   background-color: #0047AB;
+  padding: auto;
 }
 
 .card {
+  color: white;
   width: 820px;
   padding: 30px;
   border-radius: 4rem;
-  background-color: #000080;
+  background-color: #0c0c93;
   img {
     border-radius: 2rem;
   }
