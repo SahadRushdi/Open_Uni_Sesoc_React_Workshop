@@ -1,6 +1,7 @@
 import Card from './components/Card';
 import MapComp from './components/MapComp';
 import StateComp from './components/StateComp';
+import EffectComp from './components/EffectComp';
 import './App.css'
 
 function App() {
@@ -14,6 +15,8 @@ function App() {
 
         {/* <MapComp /> */}
         <StateComp />
+        {/* <EffectComp /> */}
+
     </div>
   )
 }
