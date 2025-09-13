@@ -5,10 +5,10 @@ function App() {
 
   return (
     <div className="App">
-      <Card />
-      <Card />
-      <Card />
-      <Card />
+      <Card uni="Open University Of Sri Lanka" desc="Welcome to React Props" />
+      <Card uni="University Of Colombo" desc="Welcome to React" />
+      <Card uni="University Of Peradeniya" desc="Welcome to React" />
+      <Card uni="University Of Moratuwa" desc="Welcome to React Props" />
     </div>
   )
 }
