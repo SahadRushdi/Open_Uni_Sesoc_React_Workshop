@@ -1,5 +1,6 @@
 import Card from './components/Card';
 import MapComp from './components/MapComp';
+import StateComp from './components/StateComp';
 import './App.css'
 
 function App() {
@@ -11,7 +12,8 @@ function App() {
       <Card uni="University Of Peradeniya" desc="Welcome to React" />
       <Card uni="University Of Moratuwa" desc="Welcome to React Props" /> */}
 
-      <MapComp />
+        {/* <MapComp /> */}
+        <StateComp />
     </div>
   )
 }
