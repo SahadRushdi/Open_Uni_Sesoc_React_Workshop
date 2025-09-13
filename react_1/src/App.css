@@ -1,0 +1,13 @@
+:root {
+  background-color: #0047AB;
+}
+
+.card {
+  width: 820px;
+  padding: 30px;
+  border-radius: 4rem;
+  background-color: #000080;
+  img {
+    border-radius: 2rem;
+  }
+}
